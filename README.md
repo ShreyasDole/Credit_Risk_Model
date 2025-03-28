@@ -24,13 +24,15 @@ credit-risk-model/
 
 ---
 
-## **📊 Dataset**  
-📌 We used **Lending Club Loan Data (2007-2018)**, consisting of:  
-✅ **Accepted Loans** (`accepted_2007_to_2018Q4.csv`)  
-✅ **Rejected Loans** (`rejected_2007_to_2018Q4.csv`)  
+### **📊 Dataset**  
+📌 We used the **Lending Club Loan Data (2007-2018)** from **LendingClub.com**, which includes:  
+✅ **Accepted Loans:** [`accepted_2007_to_2018Q4.csv`](https://www.lendingclub.com/info/download-data.action)  
+✅ **Rejected Loans:** [`rejected_2007_to_2018Q4.csv`](https://www.lendingclub.com/info/download-data.action)  
 
-🔹 **Key Features:** Loan amount, Interest rate, Debt-to-Income ratio, Credit Score, Employment length, etc.  
-
+🔹 **Source:** [LendingClub Loan Data](https://www.lendingclub.com/info/download-data.action)  
+🔹 **Description:**  
+- **Accepted Loans Dataset:** Contains information on loans that were approved and issued.  
+- **Rejected Loans Dataset:** Contains information on loan applications that were rejected, with fewer available features than the accepted loans dataset.  
 ---
 
 ## **🛠️ Installation & Setup**  
