@@ -148,8 +148,10 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 ---
 
 ### **🔗 Connect With Me**  
-📩 **Email:** shreyasdole1105@gmail.com  
+📩 **Email:** shreyasdole1105@gmail.com 
+
 📂 **GitHub:** ShreyasDole
+
 📄 **LinkedIn:** [LinkedIN](https://www.linkedin.com/in/shreyas-dole/)  
 
 🚀 **If you find this useful, don’t forget to ⭐ the repository!** 🚀  
