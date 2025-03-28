@@ -29,7 +29,7 @@ credit-risk-model/
 ✅ **Accepted Loans:** [`accepted_2007_to_2018Q4.csv`](https://www.lendingclub.com/info/download-data.action)  
 ✅ **Rejected Loans:** [`rejected_2007_to_2018Q4.csv`](https://www.lendingclub.com/info/download-data.action)  
 
-🔹 **Source:** [LendingClub Loan Data](https://www.lendingclub.com/info/download-data.action)  
+🔹 **Source:** [LendingClub Loan Data](https://www.kaggle.com/datasets/wordsforthewise/lending-club?resource=download)  
 🔹 **Description:**  
 - **Accepted Loans Dataset:** Contains information on loans that were approved and issued.  
 - **Rejected Loans Dataset:** Contains information on loan applications that were rejected, with fewer available features than the accepted loans dataset.  
