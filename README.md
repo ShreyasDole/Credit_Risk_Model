@@ -1,25 +1,8 @@
----
-
 ### **📌 Credit Risk Modeling with Explainable AI**  
 
 
 🚀 This project builds a **Credit Risk Prediction Model** using **XGBoost** and enhances transparency with **SHAP (SHapley Additive Explanations)**. The model predicts loan defaults using **Lending Club Loan Data** and provides feature explainability for better decision-making.  
 
----
-
-## **📖 Table of Contents**  
-- [📌 Credit Risk Modeling with Explainable AI](#-credit-risk-modeling-with-explainable-ai)  
-- [📖 Table of Contents](#-table-of-contents)  
-- [📂 Project Structure](#-project-structure)  
-- [📊 Dataset](#-dataset)  
-- [🛠️ Installation & Setup](#️-installation--setup)  
-- [🚀 Model Training & Evaluation](#-model-training--evaluation)  
-- [📝 Explainability with SHAP](#-explainability-with-shap)  
-- [🌍 API Deployment (FastAPI)](#-api-deployment-fastapi)  
-- [💡 Key Takeaways](#-key-takeaways)  
-- [📌 Future Improvements](#-future-improvements)  
-
----
 
 ## **📂 Project Structure**  
 
