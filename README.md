@@ -39,7 +39,7 @@ credit-risk-model/
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/credit-risk-model.git
+git clone https://github.com/ShreyasDole/credit-risk-model.git
 cd credit-risk-model
 ```
 
